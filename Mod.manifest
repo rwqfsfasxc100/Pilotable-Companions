@@ -1,0 +1,9 @@
+[package]
+
+id="hev.PilotableCompanions"
+name="Pilotable Companions"
+version="1.0.0"
+description="PILOTABLECOMPANIONS_DESCRIPTION"
+group="ships"
+github_homepage="https://github.com/rwqfsfasxc100/Pilotable-Companions"
+github_releases="https://github.com/rwqfsfasxc100/Pilotable-Companions/releases"

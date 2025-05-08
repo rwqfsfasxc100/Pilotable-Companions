@@ -1,0 +1,9 @@
+locale|en
+
+SHIP_SCOOP|NT Mining Companion (Human Retrofit)
+
+SHIP_SCOOP_DESC|In the early 23rd century, a joint-venture between Nakamura Dynamics and Titan Heavy Industries produced autonomous mining drones in an attempt to automate ring excavation. While initially successful, drone swarms developed personality quirks in their neural networks which diminished performance over time, with drones engaging in social behavior rather than excavation. The autonomous mining project was ultimately canceled, but the drones were quietly refurbished and rebranded as Mining Companions, to be sold to independent miners. \n\nThis retrofit to the drone was created by a collective of spacefaring hippies in an attempt to understand what made them "go rogue". Their experiment led to nothing as no work was actually done, due to many complaints to the cramped conditions.
+
+SHIP_SCOOP_SPECS|Make: Nakamura Dynamics, custom retrofit\nLow-Stress Hardpoints: 1\nCrew: 2\nDry mass: 3,200 kg\nCargo bay: 40 m^3\nProcessed cargo storage (per mineral): 3,000 kg
+
+PILOTABLECOMPANIONS_DESCRIPTION|Adds a pilotable version of the NT Mining Companion to the pool of purchasable ships.
